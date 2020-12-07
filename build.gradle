@@ -66,7 +66,7 @@ dependencies {
     optional 'org.apache.httpcomponents:httpasyncclient:4.0.1'
     
     // Square OK HTTP
-    optional 'com.squareup.okhttp:okhttp:2.2.0'
+    optional 'com.squareup.okhttp:okhttp:2.7.5'
     
     // SLF4J logging API
     compile 'org.slf4j:slf4j-simple:1.7.7'

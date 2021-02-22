@@ -59,7 +59,7 @@ dependencies {
 
     // Apache Commons
     compile 'commons-codec:commons-codec:1.10'
-    compile 'commons-net:commons-net:3.3'
+    compile 'commons-net:commons-net:3.8.0'
 
     // Apache HTTP
     optional 'org.apache.httpcomponents:httpclient:4.3.3'
